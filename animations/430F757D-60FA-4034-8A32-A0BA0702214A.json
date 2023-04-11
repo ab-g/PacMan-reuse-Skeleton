@@ -1,0 +1,94 @@
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "430F757D-60FA-4034-8A32-A0BA0702214A"
+  },
+  "tracks": [
+    {
+      "@class": "Vector3BehaviorTrack",
+      "accessor": "PositionBlendAccessor",
+      "clips": [
+        {
+          "@class": "Vector3BehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "Vector3PlainBehavior",
+            "times": [
+              0,
+              583
+            ],
+            "values": [
+              1.563244104385376,
+              0.021917063742876053,
+              0.06447064131498337,
+              1.563244104385376,
+              0.021917063742876053,
+              0.06447064131498337
+            ]
+          },
+          "duration": 583,
+          "script": "Vector3ValueBehaviorClipScript"
+        }
+      ],
+      "script": "Vector3BehaviorTrackScript"
+    },
+    {
+      "@class": "QuaternionBehaviorTrack",
+      "accessor": "RotationQBlendAccessor",
+      "clips": [
+        {
+          "@class": "QuaternionBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "QuaternionPlainBehavior",
+            "times": [
+              0,
+              583
+            ],
+            "values": [
+              -0.4999999403953552,
+              0.5000000596046448,
+              0.5000000596046448,
+              -0.49999991059303284,
+              -0.4999999403953552,
+              0.5000000596046448,
+              0.5000000596046448,
+              -0.49999991059303284
+            ]
+          },
+          "duration": 583,
+          "script": "QuaternionValueBehaviorClipScript"
+        }
+      ],
+      "script": "QuaternionBehaviorTrackScript"
+    },
+    {
+      "@class": "Vector3BehaviorTrack",
+      "accessor": "ScaleBlendAccessor",
+      "clips": [
+        {
+          "@class": "Vector3BehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "Vector3PlainBehavior",
+            "times": [
+              0,
+              583
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ]
+          },
+          "duration": 583,
+          "script": "Vector3ValueBehaviorClipScript"
+        }
+      ],
+      "script": "Vector3BehaviorTrackScript"
+    }
+  ]
+}

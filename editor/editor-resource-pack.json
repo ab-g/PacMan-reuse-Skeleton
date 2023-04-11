@@ -1,4 +1,8 @@
 {
+  "id": {
+    "uuid": "7994DFB0-7765-4D59-895D-D60706E8260D"
+  },
+  "paintGroups": [],
   "scenes": [
     {
       "key": {
@@ -9,7 +13,13 @@
           "uuid": "1C435217-1F56-4B14-B162-D5571841CD11"
         },
         "position": -1,
+        "scriptSystem": {
+          "timelines": []
+        },
         "timelines": [
+          {
+            "uuid": "9507F581-556D-44DC-869E-85678636A6E3"
+          },
           {
             "uuid": "66442C88-8D89-41F7-9C93-A7795920617B"
           },
@@ -99,12 +109,13 @@
           },
           {
             "uuid": "EDC8E0C0-6D50-48A4-96A8-936A190C4E66"
+          },
+          {
+            "uuid": "1E37E970-E29D-4BBE-A942-D618F268B5B6"
           }
-        ],
-        "scriptSystem": {
-          "timelines": []
-        }
+        ]
       }
     }
-  ]
+  ],
+  "stateMachines": []
 }

@@ -1,5 +1,98 @@
 {
   "@class": "ResourcePack",
+  "animations": {
+    "@class": "StdResourceMapAnimation",
+    "map": [
+      {
+        "key": {
+          "uuid": "08C30A9D-21AD-4D88-A1D5-D75D790A939D"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "08C30A9D-21AD-4D88-A1D5-D75D790A939D"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "110E3774-5AC0-455D-97D5-7251BC41B7CB"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "110E3774-5AC0-455D-97D5-7251BC41B7CB"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "430F757D-60FA-4034-8A32-A0BA0702214A"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "430F757D-60FA-4034-8A32-A0BA0702214A"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "613F51B6-AC88-4A82-9728-2684A230FE19"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "613F51B6-AC88-4A82-9728-2684A230FE19"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "8575E530-C354-4A03-8FA2-A75C9EBBE7C6"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "8575E530-C354-4A03-8FA2-A75C9EBBE7C6"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "985E2EA5-EA8B-4CEC-A435-D908BAF79ECF"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "985E2EA5-EA8B-4CEC-A435-D908BAF79ECF"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "A92B823F-3E46-44CC-9471-D810CA0DEB36"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "A92B823F-3E46-44CC-9471-D810CA0DEB36"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "F61DE0E8-4CAD-4DC0-8A9A-A6A5BE2EBB35"
+        },
+        "value": {
+          "@class": "Animation",
+          "id": {
+            "uuid": "F61DE0E8-4CAD-4DC0-8A9A-A6A5BE2EBB35"
+          }
+        }
+      }
+    ]
+  },
   "cameras": {
     "@class": "StdResourceMapCamera",
     "map": [
@@ -65,6 +158,61 @@
             "uuid": "4D48F86D-ECE2-462D-8509-5CC70644CDBC"
           }
         }
+      },
+      {
+        "key": {
+          "uuid": "919907C2-D62C-4448-AC26-8D0D0DD130CB"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "919907C2-D62C-4448-AC26-8D0D0DD130CB"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "AA684DE8-52AE-4249-AB1E-704BD7C2568D"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "AA684DE8-52AE-4249-AB1E-704BD7C2568D"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "BB8DB5C2-FFBC-42F3-9489-2D195D6C8BA8"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "BB8DB5C2-FFBC-42F3-9489-2D195D6C8BA8"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "CAEE3F1F-572D-43EB-A3E6-4DF60B758317"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "CAEE3F1F-572D-43EB-A3E6-4DF60B758317"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "CD29E2B3-08C4-45C0-BC8F-F4AFB6E02E5B"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "CD29E2B3-08C4-45C0-BC8F-F4AFB6E02E5B"
+          }
+        }
       }
     ]
   },
@@ -79,6 +227,61 @@
           "@class": "Mesh",
           "id": {
             "uuid": "2DFB2E0B-E99A-4A53-8D30-B57257AF17EB"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "33D2F773-A6D6-4045-95CF-7424040B3AD4"
+        },
+        "value": {
+          "@class": "Mesh",
+          "id": {
+            "uuid": "33D2F773-A6D6-4045-95CF-7424040B3AD4"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "94E3625A-DD17-4159-BDE7-47FA6847C65E"
+        },
+        "value": {
+          "@class": "Mesh",
+          "id": {
+            "uuid": "94E3625A-DD17-4159-BDE7-47FA6847C65E"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "BE95A087-FE55-4B18-8733-F0802650BBFA"
+        },
+        "value": {
+          "@class": "Mesh",
+          "id": {
+            "uuid": "BE95A087-FE55-4B18-8733-F0802650BBFA"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "DF77833B-39CA-4806-B2EC-B2184CAA8B0D"
+        },
+        "value": {
+          "@class": "Mesh",
+          "id": {
+            "uuid": "DF77833B-39CA-4806-B2EC-B2184CAA8B0D"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "FA8B1A88-1ACF-4149-8DEC-75D8C5F7182B"
+        },
+        "value": {
+          "@class": "Mesh",
+          "id": {
+            "uuid": "FA8B1A88-1ACF-4149-8DEC-75D8C5F7182B"
           }
         }
       }
@@ -118,11 +321,118 @@
   },
   "skinControllers": {
     "@class": "StdResourceMapSkinController",
-    "map": []
-  },
-  "soundSamples": {
-    "@class": "StdResourceMapSoundSample",
-    "map": []
+    "map": [
+      {
+        "key": {
+          "uuid": "0C4C7B64-56F1-4DE1-AB44-30BC4B8ACB6B"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "0C4C7B64-56F1-4DE1-AB44-30BC4B8ACB6B"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "4C9E1757-A4D5-4D10-AB1C-C17146DCA896"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "4C9E1757-A4D5-4D10-AB1C-C17146DCA896"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "59A7F99E-F9B0-453C-9CCE-D776A9A7C836"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "59A7F99E-F9B0-453C-9CCE-D776A9A7C836"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "78B383B1-392A-41CE-AE44-EA86B2B70BAA"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "78B383B1-392A-41CE-AE44-EA86B2B70BAA"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "7A3785B9-EED8-46A3-8A36-722BB827068D"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "7A3785B9-EED8-46A3-8A36-722BB827068D"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "9A8CB8C8-B647-409E-88E5-2B31B25AA261"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "9A8CB8C8-B647-409E-88E5-2B31B25AA261"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "9C676EEF-E810-4871-ADB1-1A518A1EC926"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "9C676EEF-E810-4871-ADB1-1A518A1EC926"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "A5D905B2-8BFA-4D39-BE9E-4FC2CA4C105E"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "A5D905B2-8BFA-4D39-BE9E-4FC2CA4C105E"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "A7BD17F2-0936-4D08-BBC4-96E6F1E99E05"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "A7BD17F2-0936-4D08-BBC4-96E6F1E99E05"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "BA35D3D8-92BE-4766-A4DC-37EE8D5AF793"
+        },
+        "value": {
+          "@class": "BaseSkinController",
+          "id": {
+            "uuid": "BA35D3D8-92BE-4766-A4DC-37EE8D5AF793"
+          }
+        }
+      }
+    ]
   },
   "textures2d": {
     "@class": "StdResourceMapTexture2D",

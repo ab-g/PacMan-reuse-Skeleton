@@ -1,17 +1,15 @@
 {
   "@class": "Script_SkyBox",
+  "btmColor": {
+    "values": [
+      13,
+      26,
+      64
+    ]
+  },
+  "enableOnAwake": true,
   "id": {
     "uuid": "8BC74022-8583-422A-9F4E-C2DDD5EFCD8C"
-  },
-  "name": "Script_SkyBox",
-  "enableOnAwake": true,
-  "resolution": 256,
-  "topColor": {
-    "values": [
-      64,
-      127,
-      191
-    ]
   },
   "mdlColor": {
     "values": [
@@ -20,12 +18,14 @@
       242.42800903320312
     ]
   },
-  "btmColor": {
+  "name": "Script_SkyBox",
+  "resolution": 256,
+  "scattering": 0.75,
+  "topColor": {
     "values": [
-      13,
-      26,
-      64
+      64,
+      127,
+      191
     ]
-  },
-  "scattering": 0.75
+  }
 }

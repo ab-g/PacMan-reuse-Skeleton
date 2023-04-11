@@ -22,13 +22,13 @@
   "detailType": "none",
   "diffuse": {
     "values": [
-      0.7297400832176208,
-      0.7297400832176208,
-      0.7297400832176208
+      0.9035454988479614,
+      0.7885739803314209,
+      0.09137171506881714
     ]
   },
   "diffuseMap": {
-    "uuid": "9F6B5CB4-A449-40E5-BC41-C65F6EB0A7F0"
+    "uuid": "00000000-0000-0000-0000-00000000000A"
   },
   "emissive": {
     "values": [
@@ -44,34 +44,34 @@
   "envMap": {
     "uuid": "00000000-0000-0000-0000-000000000009"
   },
-  "glowThreshold": 0,
+  "glowThreshold": 0.5,
   "heightMap": {
     "uuid": "00000000-0000-0000-0000-000000000004"
   },
   "heightScale": 1,
   "id": {
-    "uuid": "4D48F86D-ECE2-462D-8509-5CC70644CDBC"
+    "uuid": "CAEE3F1F-572D-43EB-A3E6-4DF60B758317"
   },
   "interpolation": "linear",
   "irrEnvMap": {
     "uuid": "00000000-0000-0000-0000-000000000010"
   },
   "lightningType": "perPixel",
-  "mapsStates": 127,
+  "mapsStates": 0,
   "metalness": 0,
   "metalnessMap": {
     "uuid": "00000000-0000-0000-0000-000000000007"
   },
-  "name": "Gray",
+  "name": "Pac",
   "normalMap": {
     "uuid": "00000000-0000-0000-0000-000000000002"
   },
-  "normalScale": 1,
+  "normalScale": 0.20000000298023224,
   "occlusionMap": {
     "uuid": "00000000-0000-0000-0000-000000000005"
   },
   "opacity": 1,
-  "refraction": 0.5,
+  "refraction": 1.5,
   "renderingType": "opaque",
   "rimColor": {
     "values": [
@@ -81,18 +81,18 @@
     ]
   },
   "rimIntensity": 1,
-  "roughness": 1,
+  "roughness": 0.20000000298023224,
   "roughnessMap": {
     "uuid": "00000000-0000-0000-0000-000000000008"
   },
   "shadingType": "pbr",
-  "shininess": 6.311791896820068,
+  "shininess": 9.607843399047852,
   "sideType": "front",
   "specular": {
     "values": [
-      0.7297400832176208,
-      0.7297400832176208,
-      0.7297400832176208
+      1,
+      1,
+      1
     ]
   },
   "specularMap": {
