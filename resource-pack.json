@@ -335,67 +335,12 @@
       },
       {
         "key": {
-          "uuid": "4C9E1757-A4D5-4D10-AB1C-C17146DCA896"
-        },
-        "value": {
-          "@class": "BaseSkinController",
-          "id": {
-            "uuid": "4C9E1757-A4D5-4D10-AB1C-C17146DCA896"
-          }
-        }
-      },
-      {
-        "key": {
-          "uuid": "59A7F99E-F9B0-453C-9CCE-D776A9A7C836"
-        },
-        "value": {
-          "@class": "BaseSkinController",
-          "id": {
-            "uuid": "59A7F99E-F9B0-453C-9CCE-D776A9A7C836"
-          }
-        }
-      },
-      {
-        "key": {
-          "uuid": "78B383B1-392A-41CE-AE44-EA86B2B70BAA"
-        },
-        "value": {
-          "@class": "BaseSkinController",
-          "id": {
-            "uuid": "78B383B1-392A-41CE-AE44-EA86B2B70BAA"
-          }
-        }
-      },
-      {
-        "key": {
-          "uuid": "7A3785B9-EED8-46A3-8A36-722BB827068D"
-        },
-        "value": {
-          "@class": "BaseSkinController",
-          "id": {
-            "uuid": "7A3785B9-EED8-46A3-8A36-722BB827068D"
-          }
-        }
-      },
-      {
-        "key": {
           "uuid": "9A8CB8C8-B647-409E-88E5-2B31B25AA261"
         },
         "value": {
           "@class": "BaseSkinController",
           "id": {
             "uuid": "9A8CB8C8-B647-409E-88E5-2B31B25AA261"
-          }
-        }
-      },
-      {
-        "key": {
-          "uuid": "9C676EEF-E810-4871-ADB1-1A518A1EC926"
-        },
-        "value": {
-          "@class": "BaseSkinController",
-          "id": {
-            "uuid": "9C676EEF-E810-4871-ADB1-1A518A1EC926"
           }
         }
       },

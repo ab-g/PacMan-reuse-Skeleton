@@ -238,6 +238,10 @@
         "visible": true
       }
     },
+
+
+
+
     {
       "@class": "BaseNode",
       "children": [
@@ -1088,6 +1092,10 @@
         "visible": true
       }
     },
+
+
+
+
     {
       "@class": "BaseNode",
       "children": [
@@ -1523,7 +1531,7 @@
             }
           ],
           "skinControllerId": {
-            "uuid": "9C676EEF-E810-4871-ADB1-1A518A1EC926"
+            "uuid": "A5D905B2-8BFA-4D39-BE9E-4FC2CA4C105E"
           },
           "static": false
         },
@@ -1594,7 +1602,7 @@
             }
           ],
           "skinControllerId": {
-            "uuid": "7A3785B9-EED8-46A3-8A36-722BB827068D"
+            "uuid": "A7BD17F2-0936-4D08-BBC4-96E6F1E99E05"
           },
           "static": false
         },
@@ -1665,7 +1673,7 @@
             }
           ],
           "skinControllerId": {
-            "uuid": "59A7F99E-F9B0-453C-9CCE-D776A9A7C836"
+            "uuid": "0C4C7B64-56F1-4DE1-AB44-30BC4B8ACB6B"
           },
           "static": false
         },
@@ -1736,7 +1744,7 @@
             }
           ],
           "skinControllerId": {
-            "uuid": "78B383B1-392A-41CE-AE44-EA86B2B70BAA"
+            "uuid": "BA35D3D8-92BE-4766-A4DC-37EE8D5AF793"
           },
           "static": false
         },
@@ -1807,7 +1815,7 @@
             }
           ],
           "skinControllerId": {
-            "uuid": "4C9E1757-A4D5-4D10-AB1C-C17146DCA896"
+            "uuid": "9A8CB8C8-B647-409E-88E5-2B31B25AA261"
           },
           "static": false
         },
@@ -1938,6 +1946,10 @@
         "visible": true
       }
     }
+
+
+
+
   ],
   "scriptSystem": {
     "@class": "BaseScriptSystem",
